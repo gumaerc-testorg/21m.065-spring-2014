@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: ccb935c1-1603-6852-319c-bd1588cd7136
 title: Purposeful Pedagogical Decisions
 uid: ec47d344-4f30-04f3-17dc-137f3c5db9bf

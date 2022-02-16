@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: ccb935c1-1603-6852-319c-bd1588cd7136
 ---
@@ -46,20 +48,6 @@ HASS-A ![](/images/educator/icon-question-hass-a.png)
 ### Offered
 
 Every spring semester
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![Photo of classroom showing a grand piano and about 25 movable chairs/desks in rows.]({{< resource_file 0f832f94-2fc3-ee3c-4bb1-737583b5bf02 >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Lecture
-    
-    The classroom features a piano, audio system, and music staff chalkboards.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 

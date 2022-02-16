@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: ccb935c1-1603-6852-319c-bd1588cd7136
 title: Course Goals in Depth
 uid: ddc38aaa-b8f7-02e5-6154-78b0d7710361

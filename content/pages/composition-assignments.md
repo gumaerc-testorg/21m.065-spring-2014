@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Composition Assignments
 uid: 229bd1d2-f371-61f8-d193-31a304846016
 ---

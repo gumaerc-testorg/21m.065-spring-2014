@@ -2,8 +2,12 @@
 content_type: resource
 description: This is a resource file that contains information regarding final project
   writeup.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21m-065-introduction-to-musical-composition-spring-2014/572c723be1109743ff0ac01c6a9f3542_MIT21M_065S14_final_hchoi.pdf
+file: /media/courses/21m-065-introduction-to-musical-composition-spring-2014/572c723be1109743ff0ac01c6a9f3542_MIT21M_065S14_final_hchoi.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Composition Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: Final project writeup - 21M.065 Introduction to Musical Composition Spring
   2014
