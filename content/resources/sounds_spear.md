@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Composition Assignments
 parent_type: CourseSection
+parent_uid: 229bd1d2-f371-61f8-d193-31a304846016
 resourcetype: Other
 title: sounds_SPEAR.zip
 uid: 087fa5ad-303d-9f53-23f2-3d036a2cdb64

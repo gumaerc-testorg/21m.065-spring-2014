@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Composition Assignments
 parent_type: CourseSection
+parent_uid: 229bd1d2-f371-61f8-d193-31a304846016
 resourcetype: Image
 title: final_aduffield.png
 uid: fa103e22-c920-6145-1c25-fdc77fba8a1c

@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Composition Assignments
 parent_type: CourseSection
+parent_uid: 229bd1d2-f371-61f8-d193-31a304846016
 resourcetype: Document
 title: Final project writeup - 21M.065 Introduction to Musical Composition Spring
   2014
