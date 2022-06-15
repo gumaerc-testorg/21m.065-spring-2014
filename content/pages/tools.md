@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides links to freely-distributed program used to complete
+  class assignments.
 learning_resource_types:
 - Tools
 ocw_type: CourseSection

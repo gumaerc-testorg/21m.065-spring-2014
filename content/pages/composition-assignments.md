@@ -1,12 +1,14 @@
 ---
 content_type: page
+description: This section describes the composition assignments, including the final
+  project. A few examples of student work are included.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Composition Assignments
 uid: 229bd1d2-f371-61f8-d193-31a304846016
 ---
 
-In addition to short written reactions for each set of [listening and reading assignments]({{< baseurl >}}/pages/listening-and-readings), students complete the following composition assignments, culminating in a final project and class concert. Samples of student work are courtesy of the students and used with permission.
+In addition to short written reactions for each set of {{% resource_link 69da9d79-f242-d8d4-9fb5-d629abec6270 "listening and reading assignments" %}}, students complete the following composition assignments, culminating in a final project and class concert. Samples of student work are courtesy of the students and used with permission.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -107,7 +109,7 @@ We will look at your visualizations together before listening to the music, to s
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Visualization (JPEG)]({{< baseurl >}}/resources/visualizing_aduffield) by Austin Duffield (License CC BY), of Daft Punk. "Harder Better Faster Stronger." Parlophone France, 2006.
+{{% resource_link 58b526c5-210d-1047-ba32-59430c16f114 "Visualization (JPEG)" %}} by Austin Duffield (License CC BY), of Daft Punk. "Harder Better Faster Stronger." Parlophone France, 2006.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -164,7 +166,7 @@ SPEAR sounds
 
 Create 3 new sounds using SPEAR.
 
-Use these files as starting points: [Sounds for SPEAR (ZIP - 6.5MB)]({{< baseurl >}}/resources/sounds_spear) (This ZIP file contains: 10 .aiff files.)
+Use these files as starting points: {{% resource_link 087fa5ad-303d-9f53-23f2-3d036a2cdb64 "Sounds for SPEAR (ZIP - 6.5MB)" %}} (This ZIP file contains: 10 .aiff files.)
 
 
 {{< tdclose >}}
@@ -268,13 +270,13 @@ We will meet individually in the week to go over your draft of your final projec
 
 Final project by Heejo Choi
 
-*   [Sound file (MP3 - 1.9MB)]({{< baseurl >}}/resources/final_hchoi)
-*   [Written description (PDF)]({{< baseurl >}}/resources/mit21m_065s14_final_hchoi)
+*   {{% resource_link 5389eab6-6127-c2c1-6848-374b13f95540 "Sound file (MP3 - 1.9MB)" %}}
+*   {{% resource_link 572c723b-e110-9743-ff0a-c01c6a9f3542 "Written description (PDF)" %}}
 
 Final project by Austin Duffield (License CC BY)
 
-*   [Score (PNG)]({{< baseurl >}}/resources/final_aduffield), as performed live in class with hammers, pens, velcro, bits of wood and metal, etc.
-*   [Written description (PDF)]({{< baseurl >}}/resources/mit21m_065s14_final_aduff)
+*   {{% resource_link fa103e22-c920-6145-1c25-fdc77fba8a1c "Score (PNG)" %}}, as performed live in class with hammers, pens, velcro, bits of wood and metal, etc.
+*   {{% resource_link e2050a88-0816-b1e5-7899-65749f74e89d "Written description (PDF)" %}}
 
 
 {{< tdclose >}}
