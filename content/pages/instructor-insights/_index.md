@@ -1,41 +1,39 @@
 ---
 content_type: page
+description: This section provides insights and information about the course from
+  the instructors.
+draft: false
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: ccb935c1-1603-6852-319c-bd1588cd7136
 ---
-
-Course Overview
----------------
+## Course Overview
 
 This page focuses on the course _21M.065 Introduction to Musical Composition_ as it was taught by Prof. Keeril Makan in Spring 2014.
 
 This course is one of several introductory music subjects offered at MIT for which no prior formal training is assumed. It uses a hands-on approach to composition as a means to explore sound, listening and music.
 
-Course Outcomes
----------------
+## Course Outcomes
 
 ### Course Goals for Students
 
-*   Investigate the sonic organization of musical works and performances, focusing on fundamental questions of unity and variety.
-*   Use written composition assignments to develop musical ideas and notation methods that effectively transmit to performers.
+- Investigate the sonic organization of musical works and performances, focusing on fundamental questions of unity and variety.
+- Use written composition assignments to develop musical ideas and notation methods that effectively transmit to performers.
 
 {{< anchor "insights" >}}{{< /anchor >}}
 
-Instructor Insights
--------------------
+## Instructor Interview
 
 {{< quote "Listening is one of the greatest gifts we can give to somebody." "—Prof. Keeril Makan" >}}
 
-_In the following pages, Prof. Makan gives more details on how he teaches 21M.065 Introduction to Musical Composition._
+_In the following pages, Prof. Makan gives more details on how he teaches_ 21M.065 Introduction to Musical Composition_._
 
-*   [Course Goals In Depth]({{< baseurl >}}/pages/instructor-insights/course-goals-in-depth)
-*   [Purposeful Pedagogical Decisions]({{< baseurl >}}/pages/instructor-insights/purposeful-pedagogical-decisions)
+- {{% resource_link ddc38aaa-b8f7-02e5-6154-78b0d7710361 "Course Goals In Depth" %}}
+- {{% resource_link ec47d344-4f30-04f3-17dc-137f3c5db9bf "Purposeful Pedagogical Decisions" %}}
 
-Curriculum Information
-----------------------
+## Curriculum Information
 
 ### Prerequisites
 
@@ -51,8 +49,7 @@ Every spring semester
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
-Assessment
-----------
+## Assessment
 
 The students' grades were based on the following activities:
 
@@ -61,14 +58,15 @@ The students' grades were based on the following activities:
 - 20% Final project
 - 10% One-page responses to weekly listening and reading
 
-
 ### Instructor Insights on Assessment
-Read how Professor Makan made [purposeful pedagogical decisions]({{< baseurl >}}/pages/instructor-insights/purposeful-pedagogical-decisions) about the composition assignments.
 
-Student Information
--------------------
+Read how Professor Makan made {{% resource_link ec47d344-4f30-04f3-17dc-137f3c5db9bf "purposeful pedagogical decisions" %}} about the composition assignments.
 
-![17 students took this course when it was offered in Spring 2014.]({{< resource_file f853b338-d750-bf1d-b6f9-7fd678717c6f >}})
+## Student Information
+
+### Enrollment
+
+17 students
 
 ### Breakdown by Major
 
@@ -84,21 +82,18 @@ In future iterations of this course, we may experiment with offering two section
 
 ### Enrollment Cap
 
-Limited to 18.
+Limited to 18 students
 
 {{< anchor "studenttime" >}}{{< /anchor >}}
 
-How Student Time Was Spent
---------------------------
+## How Student Time Was Spent
 
 During an average week, students were expected to spend 12 hours on the course, roughly divided as follows:
 
-In Class
---------
+### In Class
 
 Met 2 times per week for 1.5 hours per session. Class activities were a mix of lecture/discussion and student demonstrations of their composition assignments.
 
-Out of Class
-------------
+### Out of Class
 
 Reading and listening assignments and composition assignments. Occasional attendance required at concerts and composer forum events.
