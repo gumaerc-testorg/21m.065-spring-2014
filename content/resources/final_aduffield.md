@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: Graphical score arranged as four long parallel horizontal bars.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Composition Assignments
 parent_type: CourseSection
