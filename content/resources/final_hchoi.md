@@ -2,6 +2,7 @@
 content_type: resource
 description: Audio recording of final project.
 file: /courses/21m-065-introduction-to-musical-composition-spring-2014/5389eab66127c2c16848374b13f95540_final_hchoi.mp3
+file_size: 2019558
 file_type: audio/mpeg
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
