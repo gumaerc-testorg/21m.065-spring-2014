@@ -3,6 +3,7 @@ content_type: resource
 description: This is a resource file that contains information regarding final project
   writeup.
 file: /courses/21m-065-introduction-to-musical-composition-spring-2014/572c723be1109743ff0ac01c6a9f3542_MIT21M_065S14_final_hchoi.pdf
+file_size: 139399
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
