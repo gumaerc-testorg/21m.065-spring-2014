@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding final project
   writeup.
-file: /courses/21m-065-introduction-to-musical-composition-spring-2014/e2050a880816b1e5789965749f74e89d_MIT21M_065S14_final_aduff.pdf
+file: /ol-ocw-studio-app/courses/21m-065-introduction-to-musical-composition-spring-2014/e2050a880816b1e5789965749f74e89d_MIT21M_065S14_final_aduff.pdf
 file_size: 146933
 file_type: application/pdf
 learning_resource_types: []
