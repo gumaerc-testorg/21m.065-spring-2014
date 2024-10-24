@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a special file related to spear sounds.
-file: /courses/21m-065-introduction-to-musical-composition-spring-2014/087fa5ad303d9f5323f23d036a2cdb64_sounds_SPEAR.zip
+file: /ol-ocw-studio-app/courses/21m-065-introduction-to-musical-composition-spring-2014/087fa5ad303d9f5323f23d036a2cdb64_sounds_SPEAR.zip
 file_size: 6816719
 file_type: application/zip
 learning_resource_types: []
