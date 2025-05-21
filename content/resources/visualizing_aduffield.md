@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/21m-065-introduction-to-musical-composition-spring-2014/58b526c5210d1047ba3259430c16f114_visualizing_aduffield.jpg
+file: /courses/21m-065-introduction-to-musical-composition-spring-2014/58b526c5210d1047ba3259430c16f114_visualizing_aduffield.jpg
 file_size: 771708
 file_type: image/jpeg
 image_metadata:
