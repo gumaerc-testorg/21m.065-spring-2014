@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/21m-065-introduction-to-musical-composition-spring-2014/f853b338d750bf1db6f97fd678717c6f_21M-065_stat-students.png
+file: /ol-ocw-studio-app/courses/21m-065-introduction-to-musical-composition-spring-2014/f853b338d750bf1db6f97fd678717c6f_21M-065_stat-students.png
 file_size: 2717
 file_type: image/png
 image_metadata:
