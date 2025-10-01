@@ -56,7 +56,7 @@ Partial Listing of Topics
 Requirements and Policies
 -------------------------
 
-This is a [HASS Arts Distribution](http://mit.edu/hassreq/#hasscatdef) undergraduate subject. Instead of term papers, you will be writing music to meet the writing requirement. All music that you write will be performed in-class by your fellow students, or will be presented on computer.
+This is a {{% resource_link "069a039e-ec3a-485c-85a3-89e04a0b3fa0" "HASS Arts Distribution" %}} undergraduate subject. Instead of term papers, you will be writing music to meet the writing requirement. All music that you write will be performed in-class by your fellow students, or will be presented on computer.
 
 In addition to your composition assignments, you will also have frequent reading and listening assignments.
 
@@ -68,7 +68,7 @@ You will never need your cellphone during class, unless it is used in a composit
 
 ### Required Forums & Concerts
 
-You must attend these six events during semester, including four events with MIT artists-in-residence [Either/Or](http://www.eitherormusic.org/). If you are unable to attend any of them due to a scheduling conflict, then we will find substitute events for you to go to. You must let me know by the beginning of the second week of class if you cannot attend any of these events.
+You must attend these six events during semester, including four events with MIT artists-in-residence {{% resource_link "e846c95b-0d51-4d02-9f89-e27f5da2cc3a" "Either/Or" %}}. If you are unable to attend any of them due to a scheduling conflict, then we will find substitute events for you to go to. You must let me know by the beginning of the second week of class if you cannot attend any of these events.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -480,7 +480,7 @@ Forum with Keeril Makan
 C2
 {{< tdclose >}}
 {{< tdopen >}}
-[Either/Or concert: music of Keeril Makan](http://arts.mit.edu/experimental-music-eitheror-performs-work-of-keeril-makan/)
+{{% resource_link "121609c3-d1f6-49af-bb53-eb6bdd12294b" "Either/Or concert: music of Keeril Makan" %}}
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -618,7 +618,7 @@ Assignment 11 (final project) due
 C3
 {{< tdclose >}}
 {{< tdopen >}}
-Class attends [MIT CAST Sound Installations evening event](http://arts.mit.edu/resonating-mit-scanner-vitiello/)
+Class attends {{% resource_link "397737ad-49ff-4210-9e3e-1e7bb9ce58c6" "MIT CAST Sound Installations evening event" %}}
 {{< tdclose >}}
 {{< tdopen >}}
  
