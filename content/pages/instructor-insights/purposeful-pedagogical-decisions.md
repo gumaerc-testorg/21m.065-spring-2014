@@ -33,4 +33,4 @@ The Composer Forums are a series of lecture/demonstrations presented each semest
 
 One of the Forum presentations with which a lot of students resonated was that of Roger Reynolds. Reynolds, who is now 80, is a composer. As an undergraduate, he majored in Engineering Physics. That training stuck with him and has influenced how he creates his work. He’s a very technical type of composer and certainly there were technical aspects to his presentation, but MIT students found they shared his Engineering language.
 
-Along with the Composer Forums, I assign attendance at several concerts, responding to the culture of what’s happening on campus that semester. The MIT Music program and [Arts at MIT](http://arts.mit.edu/) have a lot of music-making, and I will focus on the more contemporary events.
+Along with the Composer Forums, I assign attendance at several concerts, responding to the culture of what’s happening on campus that semester. The MIT Music program and {{% resource_link "03eb5a3f-22f6-4036-8dec-685415374301" "Arts at MIT" %}} have a lot of music-making, and I will focus on the more contemporary events.

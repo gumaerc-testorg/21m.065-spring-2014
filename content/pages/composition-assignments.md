@@ -75,11 +75,11 @@ Example: Location specific
 
 Example: Context based
 
-*   Go to one end of [MIT's Infinite Corridor](http://en.wikipedia.org/wiki/Infinite_Corridor) and listen for the sound that is farthest away from where you are standing. Go to that sound and listen for the sound that is farthest away from where you are standing. Repeat until xxx.
+*   Go to one end of {{% resource_link "277241c2-127a-48a0-b795-e86b2715745b" "MIT's Infinite Corridor" %}} and listen for the sound that is farthest away from where you are standing. Go to that sound and listen for the sound that is farthest away from where you are standing. Repeat until xxx.
 
 Example: Action based
 
-*   Go to the [MIT Stata Center](http://en.wikipedia.org/wiki/Ray_and_Maria_Stata_Center) and listen to the sounds made by tapping on the bricks in the [outside amphitheater](https://www.flickr.com/photos/mit-campus-activities/5057957004)…
+*   Go to the {{% resource_link "b326c303-fe20-4b08-a483-0b185fc4c820" "MIT Stata Center" %}} and listen to the sounds made by tapping on the bricks in the {{% resource_link "f44167d4-d585-4c77-9d4f-9520e55b301f" "outside amphitheater" %}}…
 
 Your soundwalk to should create a 30-minute experience for the person following your instructions. The 30 minutes should include the time it takes to get to the starting point from our classroom, and the time it takes to return to our class after the soundwalk is done.
 
@@ -147,8 +147,8 @@ You'll work in small groups to design and build your own instrument. Meet with y
 {{< tdopen >}}
 Gamma Sonification
 
-*   Read about this project: "[Gamma Sonification: MIT Students make Music from Particle Energy](http://newsoffice.mit.edu/2014/gamma-sonification-mit-students-make-music-particle-energy)." _MIT News_, May 29, 2014.
-*   Listen to "[The Music of Particle Energy](https://soundcloud.com/mitkwes/sets/nuclear-music)" on SoundCloud.
+*   Read about this project: "{{% resource_link "e5a45a65-cfb9-4a4d-8540-84de7bf8ff49" "Gamma Sonification: MIT Students make Music from Particle Energy" %}}." _MIT News_, May 29, 2014.
+*   Listen to "{{% resource_link "eeb6ba91-c74f-4d7d-b70b-20963cf3097f" "The Music of Particle Energy" %}}" on SoundCloud.
 
 
 {{< tdclose >}}
@@ -215,9 +215,9 @@ Audacity piece #2
 {{< tdopen >}}
 
 
-Create a piece in Audacity with SPEAR using [ritornello form](http://en.wikipedia.org/wiki/Ritornello).
+Create a piece in Audacity with SPEAR using {{% resource_link "16dd292e-6097-49f3-be16-53ecceb7934d" "ritornello form" %}}.
 
-Use the 1st movement (Allegro) of Bach's _Brandenburg Concerto_ No. 5 as a model. You can refer to the [free audio and score at IMSLP](http://imslp.org/wiki/Brandenburg_Concerto_No.5_in_D_major,_BWV_1050_(Bach,_Johann_Sebastian)), or this video: CroBaroque. "J. S. Bach - Brandenburg Concerto No.5 in D BWV1050 - Croatian Baroque Ensemble." March 4, 2014. YouTube. Accessed August 22, 2014. [www.youtube.com/watch?v=BnjqGhAlFzs](http://www.youtube.com/watch?v=BnjqGhAlFzs)
+Use the 1st movement (Allegro) of Bach's _Brandenburg Concerto_ No. 5 as a model. You can refer to the {{% resource_link "12c31501-172e-421a-a6ad-4202f5ac1aa2" "free audio and score at IMSLP" %}}, or this video: CroBaroque. "J. S. Bach - Brandenburg Concerto No.5 in D BWV1050 - Croatian Baroque Ensemble." March 4, 2014. YouTube. Accessed August 22, 2014. {{% resource_link "f8b77891-2031-43b5-9aca-3ebde1b09d55" "www.youtube.com/watch?v=BnjqGhAlFzs" %}}
 
 You can use any sound sources that you like. However, the sounds cannot appear unmodified. There should be a main "theme" or "refrain" which is a thicker texture. There should be a contrasting, "solo" texture. You should alternate refrain and solo a total of 7 times (ABAB'AB''A), ending with the theme. Restatements of the theme should be shorter than the initial presentation at the beginning of the piece. The last solo section should contrast with the whole piece in a similar way that the harpsichord solo in the Bach breaks the form.
 
@@ -255,7 +255,7 @@ Final project
 {{< tdopen >}}
 
 
-Read the text of this 1937 lecture by John Cage: "[The Future of Music: Credo](http://www.medienkunstnetz.de/source-text/41/)."
+Read the text of this 1937 lecture by John Cage: "{{% resource_link "c3a15e54-d313-4f7c-864d-b9a719771c98" "The Future of Music: Credo" %}}."
 
 Write a piece which responds to this article. It is up to you to define what "response" means. It should be 2–3 minutes in length. In addition to the piece, also write a one-page description of how you are responding to the Cage article.
 
